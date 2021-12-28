@@ -33,13 +33,7 @@ class CameraViewModel(application: Application) : AndroidViewModel(application)
                 text = title,
                 modifier = Modifier.padding(10.dp)
             )
-
-
         }
 
-
-
     }
-
-
 }
